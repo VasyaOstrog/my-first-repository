@@ -1,7 +1,7 @@
 # Це мій репозиторій
 ## Моє ім'я кіт
-[img](https://cdn.pixabay.com/photo/2025/01/27/20/18/wheat-9364066_1280.jpg)
-** Я є front-end розробник **. Приклад коду:
+![img](https://cdn.pixabay.com/photo/2025/01/27/20/18/wheat-9364066_1280.jpg)
+**Я є front-end розробник**. Приклад коду:
 ``` javascript
 console.log("hi");
 ```
